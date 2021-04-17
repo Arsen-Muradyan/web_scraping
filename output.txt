@@ -1,0 +1,57 @@
+[<div class="col-sm-4 col-lg-4 col-md-4">
+<div class="thumbnail">
+<img alt="item" class="img-responsive" src="/images/test-sites/e-commerce/items/cart2.png"/>
+<div class="caption">
+<h4 class="pull-right price">$520.99</h4>
+<h4>
+<a class="title" href="/test-sites/e-commerce/allinone/product/527" title="HP 250 G3">HP 250 G3</a>
+</h4>
+<p class="description">15.6", Core i5-4210U, 4GB, 500GB, Windows 8.1</p>
+</div>
+<div class="ratings">
+<p class="pull-right">13 reviews</p>
+<p data-rating="2">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+</p>
+</div>
+</div>
+</div>, <div class="col-sm-4 col-lg-4 col-md-4">
+<div class="thumbnail">
+<img alt="item" class="img-responsive" src="/images/test-sites/e-commerce/items/cart2.png"/>
+<div class="caption">
+<h4 class="pull-right price">$299.00</h4>
+<h4>
+<a class="title" href="/test-sites/e-commerce/allinone/product/547" title="Prestigio SmartBook 133S Gold">Prestigio SmartB...</a>
+</h4>
+<p class="description">Prestigio SmartBook 133S Gold, 13.3" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam</p>
+</div>
+<div class="ratings">
+<p class="pull-right">12 reviews</p>
+<p data-rating="4">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+</p>
+</div>
+</div>
+</div>, <div class="col-sm-4 col-lg-4 col-md-4">
+<div class="thumbnail">
+<img alt="item" class="img-responsive" src="/images/test-sites/e-commerce/items/cart2.png"/>
+<div class="caption">
+<h4 class="pull-right price">$587.99</h4>
+<h4>
+<a class="title" href="/test-sites/e-commerce/allinone/product/509" title="Galaxy Note 10.1">Galaxy Note 10.1</a>
+</h4>
+<p class="description">10.1", 32GB, Black</p>
+</div>
+<div class="ratings">
+<p class="pull-right">6 reviews</p>
+<p data-rating="2">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+</p>
+</div>
+</div>
+</div>]
